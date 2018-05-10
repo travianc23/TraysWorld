@@ -1,8 +1,6 @@
-## Welcome to Trays World
+<h1> Welcome to Trays World </h1>
 
-You can use the [editor on GitHub](https://github.com/travianc23/TraysWorld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
